@@ -1,0 +1,49 @@
+.App-form {
+  text-align: center; 
+}
+
+.App-footer {
+  background-color:#0099ff;
+  height: 80px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  position:fixed;
+  bottom: 0;
+  align-items:center;
+  justify-content: center;
+  color: white;
+}
+
+.App-header {
+  background-color:#0099ff;
+  height: 80px;
+  width: 100%;
+  display: flex;
+  flex-direction: column; 
+  color: white;
+}
+
+.data-div{
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+
+.logo{
+  float: left;
+}
+
+.pg{
+  float: right;
+  padding: 25px;
+  color: white;
+}
+
+a{
+  padding: 5px;
+  color: white;
+}
+
+.datadiv{
+  margin-bottom: 100px;
+}
